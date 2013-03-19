@@ -1,7 +1,4 @@
-/*  Created by Edward Akoto on 12/31/12.
- *  Email akotoe@aua.ac.ke
- * 	Free for modification and distribution
- */
+
 
 package com.example.facebook.slideoutmenu;
 
